@@ -11,4 +11,4 @@ robocorp.com/docs
 
 ## VS code extension
 
-## Jupyer extension
+## Jupyter extension
