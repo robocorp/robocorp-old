@@ -1,14 +1,12 @@
-# robocorp open-source ecosystem
-robocorp.com/docs
+[![Robocorp](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png 'Robocorp')](https://robocorp.com/)
 
-## RPA Framework
+# Robocorp open-source ecosystem
 
-## RCC
-
-## Robot Framework
-
-## LSP
-
-## VS code extension
-
-## Jupyter extension
+| Project                                                                                             | Description                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [robocorp.com/docs](https://www.robocorp.com/docs)                                                  | Robocorp's documentation supports you on your software robot development journey.                                                                                                                                                                                 |
+| [RPA Framework](https://rpaframework.org/)                                                          | RPA Framework is a collection of open-source automation libraries.                                                                                                                                                                                                |
+| [RCC](https://github.com/robocorp/rcc)                                                              | RCC is a set of tooling that allows you to create, manage, and distribute Python-based self-contained automation packages.                                                                                                                                        |
+| [Robot Framework](https://robotframework.org/)                                                      | Robot Framework is a generic open source automation framework.                                                                                                                                                                                                    |
+| [Robot Framework LSP](https://github.com/robocorp/robotframework-lsp/tree/master/robotframework-ls) | Language Server Protocol implementation for Robot Framework. Available for [VS Code](https://marketplace.visualstudio.com/items?itemName=robocorp.robotframework-lsp) and [IntelliJ](https://plugins.jetbrains.com/plugin/16086-robot-framework-language-server). |
+| [VS code extension](https://github.com/robocorp/robotframework-lsp/tree/master/robocorp-code)       | The Robocorp VS Code extension makes it easy to create Python or Robot Framework based automation projects and software robots.                                                                                                                                   |
