@@ -1,6 +1,6 @@
-[![Robocorp](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png 'Robocorp')](https://robocorp.com/)
+[![Robocorp - Open-source stack for powering Automation Ops.](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png 'Robocorp - Open-source stack for powering Automation Ops.')](https://robocorp.com/)
 
-# Robocorp open-source ecosystem
+# Robocorp - Powering open-source AutomationOps
 
 | Project                                                                                             | Description                                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
