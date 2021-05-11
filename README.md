@@ -1,7 +1,5 @@
-(this header for demo purposes)
 [![Robocorp - Open-source stack for powering Automation Ops.](header.png 'Robocorp - Open-source stack for powering Automation Ops.')](https://robocorp.com/)
 
-(this header for live purposes)
 [![Robocorp - Open-source stack for powering Automation Ops.](https://raw.githubusercontent.com/robocorp/robocorp/master/header.png 'Robocorp - Open-source stack for powering Automation Ops.')](https://robocorp.com/)
 
 # Robocorp - Powering open-source Automation Ops
