@@ -1,3 +1,24 @@
+<style
+  type="text/css">
+table {
+    background-color: #7850FA;
+    border-radius: 1em;
+    color: white;
+    margin-bottom: 1em;
+}
+
+table a {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+th, td {
+    padding: 1em;
+}
+
+</style>
+
 (this header for demo purposes)
 [![Robocorp - Open-source stack for powering Automation Ops.](header.png 'Robocorp - Open-source stack for powering Automation Ops.')](https://robocorp.com/)
 
