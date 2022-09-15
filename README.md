@@ -13,7 +13,7 @@
 
 ## Developer tools
 
-- [Robocorp Lab](https://robocorp.com/docs/developer-tools/robocorp-lab/overview): An IDE for developing software robots.
+- [Automation Studio](https://robocorp.com/docs/developer-tools/automation-studio): Low-code IDE for Robot Framework.
 - [Robocorp VS Code extension](https://robocorp.com/docs/developer-tools/visual-studio-code/overview): Create Python or Robot Framework based automation projects.
 - [RCC](https://robocorp.com/docs/rcc/overview): Create, manage, and distribute Python-based self-contained automation packages.
 
