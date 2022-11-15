@@ -21,10 +21,10 @@
 
 - [Quickstart](https://robocorp.com/docs/quickstart-guide)
 - [Courses](https://robocorp.com/docs/courses)
-- [RPA Framework automation libraries](https://rpaframework.org/)
+- [RPA Framework automation libraries](https://robocorp.com/docs/libraries/rpa-framework)
 
-## Robocorp Cloud
+## Robocorp Control Room
 
-[Robocorp Cloud](https://robocorp.com/docs/robocorp-cloud/overview) is a convenient way to distribute, monitor and manage your robot workforce in real time across your organization from one central command. Robocorp Cloud's promise is to provide a secure, reliable, and scalable way to orchestrate software robots. It is an all-in-one orchestration solution, so you do not need to maintain and host your own servers, databases, or even runtime environments.
+[Robocorp Control Room](https://robocorp.com/docs/control-room) is a convenient way to distribute, monitor and manage your robot workforce in real time across your organization from one central command. Robocorp Control Room's promise is to provide a secure, reliable, and scalable way to orchestrate software robots. It is an all-in-one orchestration solution, so you do not need to maintain and host your own servers, databases, or even runtime environments.
 
 [**Create an account and start automating!**](https://robocorp.com/get-started)
